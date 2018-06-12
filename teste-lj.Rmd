@@ -1,0 +1,41 @@
+---
+title: "teste-km"
+author: "Karlo Guidoni Martins"
+date: "June 12, 2018"
+output: word_document
+---
+
+
+- pasta com arquivos
+
+- abro o git bash na pasta
+
+```
+ls # lista os arquivos da pasta
+```
+
+```
+git init # inicia o repo de git
+```
+
+
+```
+git config --global user.name "Karlo Guidoni Martins"
+
+git config --global user.email "kguidonimartins@gmail.com"
+```
+
+
+```
+git status # mostra o status do repo
+```
+
+```
+git add . # adiciona os arquivos
+```
+
+
+``` 
+git commit -m "minha mensagem"
+```
+
