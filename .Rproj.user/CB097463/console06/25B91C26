@@ -1,0 +1,30 @@
+]0;/home/jaques/Documentos/teste-lj]0;jaques@jaques-C14CR21: ~/Documentos/teste-lj[01;32mjaques@jaques-C14CR21[00m:[01;34m~/Documentos/teste-lj[00m$ ls
+teste.docx  teste-lj.Rproj  teste.Rmd
+]0;/home/jaques/Documentos/teste-lj]0;jaques@jaques-C14CR21: ~/Documentos/teste-lj[01;32mjaques@jaques-C14CR21[00m:[01;34m~/Documentos/teste-lj[00m$ git init
+Initialized empty Git repository in /home/jaques/Documentos/teste-lj/.git/
+]0;/home/jaques/Documentos/teste-lj]0;jaques@jaques-C14CR21: ~/Documentos/teste-lj[01;32mjaques@jaques-C14CR21[00m:[01;34m~/Documentos/teste-lj[00m$ rl
+rl: comando não encontrado
+]0;/home/jaques/Documentos/teste-lj]0;jaques@jaques-C14CR21: ~/Documentos/teste-lj[01;32mjaques@jaques-C14CR21[00m:[01;34m~/Documentos/teste-lj[00m$ ll
+total 44
+drwxrwxr-x 4 jaques jaques  4096 Jun 12 09:10 [0m[01;34m.[0m/
+drwxr-xr-x 9 jaques jaques  4096 Jun 12 08:59 [01;34m..[0m/
+drwxrwxr-x 7 jaques jaques  4096 Jun 12 09:10 [01;34m.git[0m/
+drwxrwxr-x 4 jaques jaques  4096 Jun 12 08:59 [01;34m.Rproj.user[0m/
+-rw-rw-r-- 1 jaques jaques 16610 Jun 12 09:01 teste.docx
+-rw-rw-r-- 1 jaques jaques   205 Jun 12 08:59 teste-lj.Rproj
+-rw-rw-r-- 1 jaques jaques   793 Jun 12 09:01 teste.Rmd
+]0;/home/jaques/Documentos/teste-lj]0;jaques@jaques-C14CR21: ~/Documentos/teste-lj[01;32mjaques@jaques-C14CR21[00m:[01;34m~/Documentos/teste-lj[00m$ git status
+No ramo master
+
+Submissão inicial.
+
+Arquivos não monitorados:
+  (utilize "git add <arquivo>..." para incluir o que será submetido)
+
+	[31m.Rproj.user/[m
+	[31mteste-lj.Rproj[m
+	[31mteste.Rmd[m
+	[31mteste.docx[m
+
+nada adicionado ao envio mas arquivos não registrados estão presentes (use "git add" to registrar)
+]0;/home/jaques/Documentos/teste-lj]0;jaques@jaques-C14CR21: ~/Documentos/teste-lj[01;32mjaques@jaques-C14CR21[00m:[01;34m~/Documentos/teste-lj[00m$ git .[Kadd .
